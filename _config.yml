@@ -1,0 +1,72 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site title
+title: "because i said so"
+
+# A description of your site for social meta tag, search engines, and feed.xml
+description: "tech related ramblings from a human female."
+
+# Tagline near the site title
+tagline: "software is opinionated."
+
+# The subpath of your site, e.g. /blog, for generating urls
+baseurl:
+
+sass:
+  sass_dir: _sass
+
+# The base hostname & protocol of your site for where absolute urls are needed
+author_bio: "Upon emerging from her home under the stairs behind a server rack in a warehouse, Nic became a co-founder of an international hacker-space. She firmly believes that there are 10 types of people in the world: Those who understand binary, those who don't, and those who didn't expect this joke to be in base 3."
+author_url:  "https://github.com/killerwails/becauseisaidso.github.io"
+author_location: "Vancouver,Canada"
+author_image: /images/nz.jpg
+
+# Sidebar Add banner
+banner_url: "https://github.com/killerwails/becauseisaidso.github.io"
+banner_image: images/catacat.jpg
+
+# Sidebar newsletter widget - add your form action url for MailChimp signup form here
+mailchimp_url: "//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117"
+
+# Social links in the site footer
+# twitter_username: "username"
+# facebook_username: "username"
+# googleplus_username: "+username"
+github_username: "killerwails"
+# codepen_username: "username"
+# dribbble_uername: "username"
+# medium_username: "@username"
+instagram_username: "sanpickachu"
+# pinterest_username: "username"
+linkedin_username: "nikki-martinez"
+
+# http://jekyllrb.com/docs/pagination/
+paginate: 5
+paginate_path: '/blog/page:num/'
+gems: [jekyll-paginate]
+
+permalink: pretty
+markdown: kramdown
+kramdown:
+    auto_ids: false
+url: "http://justgoodthemes.com"
+
+# Site navigation - each item must have a title and a url.
+navigation:
+- text: Home
+  url: /
+- text: Projects
+  url: /projects/
+- text: Archives
+  url: /tags/
+
+# The shortname for your Disqus site to enable comments.
+disqus: biss
+
+# Author information - author info at the bottom of the post
+author_name: "Nic"
