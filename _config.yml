@@ -22,12 +22,12 @@ sass:
 
 # The base hostname & protocol of your site for where absolute urls are needed
 author_bio: "Upon emerging from her home under the stairs behind a server rack in a warehouse, Nic became a co-founder of an international hacker-space. She firmly believes that there are 10 types of people in the world: Those who understand binary, those who don't, and those who didn't expect this joke to be in base 3."
-author_url:  "https://github.com/killerwails/becauseisaidso.github.io"
+author_url:  "https://hackhouse.ca"
 author_location: "Vancouver,Canada"
 author_image: /images/nz.jpg
 
 # Sidebar Add banner
-banner_url: "https://github.com/killerwails/becauseisaidso.github.io"
+banner_url: "https://hackhouse.ca"
 banner_image: images/catacat.jpg
 
 # Sidebar newsletter widget - add your form action url for MailChimp signup form here
