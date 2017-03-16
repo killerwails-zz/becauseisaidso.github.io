@@ -2,7 +2,7 @@
 layout: post
 title:  "Inaugural Post"
 date:   2016-09-29
-banner_image: catcat.jpg
+banner_image: catcat.jpg 
 tags: [catpic, blogging]
 ---
 
